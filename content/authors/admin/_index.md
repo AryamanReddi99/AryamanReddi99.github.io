@@ -100,6 +100,12 @@ social:
     label: Follow me on Twitter
     display:
       header: false
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/vectors_suck/
+    label: Follow me on Instagram
+    display:
+      header: false
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@aryamanreddi
@@ -129,5 +135,5 @@ I am a PhD student in reinforcement learning at the [LiteRL](https://www.informa
 
 I am interested in developing sample-efficient techniques in **deep reinforcement learning** using theoretical analyses from **game theory**🕹️
 
-I am a [Cartesian](https://en.wikipedia.org/wiki/Cartesianism), a [Continuum Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) supporter, and a [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) sceptic.
+I am a [Cartesian](https://en.wikipedia.org/wiki/Cartesianism), a [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) supporter, and a [Continuum Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) skeptic.
 <!-- {style="text-align: justify;"} -->

@@ -45,14 +45,14 @@ We hosted a number of speakers with expertise in the fields of robot learning an
 
 {{< rawhtml >}}
   <div class="clearfix">
-    <div class="img-container">
+    <div class="img-container-2">
     <img src="3.jpg" style="margin-bottom: 10px">
-    <figcaption>Georgia's (Head of PEARL) introduction to the symposium.</figcaption>
+    <figcaption>Professor Georgia Chalvatzaki's (Head of PEARL) introduction to the symposium.</figcaption>
     </div>
-    <div class="img-container">
+    <div class="img-container-2">
     <img src="wolfram.jpg" style="margin-bottom: 10px">
     <figcaption>
-    Wolfram Burgard's presentation on his lab's latest work.</figcaption>
+    Proffesor Wolfram Burgard's presentation on his lab's latest work.</figcaption>
     </div>
 </div>
 {{< /rawhtml >}}
@@ -61,14 +61,14 @@ Additionally, we got to present our current research projects (and how they migh
 
 {{< rawhtml >}}
   <div class="clearfix">
-    <div class="img-container">
+    <div class="img-container-2">
     <img src="featured_2.jpg" style="margin-bottom: 10px">
-    <figcaption>Carlo's (Head of LiteRL) introduction talk.</figcaption>
+    <figcaption>Professor Carlo D'Eramo's (Head of LiteRL) introduction talk.</figcaption>
     </div>
-    <div class="img-container">
+    <div class="img-container-2">
     <img src="4.jpg" style="margin-bottom: 10px">
     <figcaption>
-    Me presenting my projects.</figcaption>
+    My presentation.</figcaption>
     </div>
 </div>
 {{< /rawhtml >}}
@@ -77,7 +77,7 @@ Additionally, we got to present our current research projects (and how they migh
 We also had a chance to explore the beautiful Christmas markets of Nürnberg, which were an absolute treat.
 
 
-{{< figure src="2.jpg" caption="Carlo with half of his PhDs." width="50%">}}
+{{< figure src="2.jpg" caption="Carlo with half of his PhDs." width="70%">}}
 
 
-{{< figure src="SYMPLER_logo.png" width="80%">}}
+{{< figure src="SYMPLER_logo.png" width="50%">}}

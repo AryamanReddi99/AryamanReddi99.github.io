@@ -134,7 +134,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:
@@ -154,11 +154,12 @@ sections:
       # Choose a layout view
       # view: compact
       view: compact
-      columns: '3'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
       title: Projects
+      count: 0
       filters:
         folders:
           - project
@@ -176,8 +177,10 @@ sections:
           tag: Web
         # - name: Deep Learning
         #   tag: Deep Learning
-        - name: WIP
-          tag: WIP
+        # - name: WIP
+        #   tag: WIP
+        - name: Math
+          tag: Math
         
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
