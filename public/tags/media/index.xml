@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media | Aryaman Reddi</title>
+    <link>http://localhost:1313/tags/media/</link>
+      <atom:link href="http://localhost:1313/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Media</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fcaf3e06e07dd69.png</url>
+      <title>Media</title>
+      <link>http://localhost:1313/tags/media/</link>
+    </image>
+    
+    <item>
+      <title>A Tier List of the Jurors from 12 Angry Men (1957) ⚖️</title>
+      <link>http://localhost:1313/post/medium-angry/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/medium-angry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

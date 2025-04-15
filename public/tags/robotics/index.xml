@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Aryaman Reddi</title>
+    <link>http://localhost:1313/tags/robotics/</link>
+      <atom:link href="http://localhost:1313/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fcaf3e06e07dd69.png</url>
+      <title>Robotics</title>
+      <link>http://localhost:1313/tags/robotics/</link>
+    </image>
+    
+    <item>
+      <title>International Conference on Learning Representations (ICLR) 2024 📜</title>
+      <link>http://localhost:1313/post/iclr_2024/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/iclr_2024/</guid>
+      <description>&lt;p&gt;In May 2024, I went to Vienna along with several other researchers from the IAS, LiteRL, and PEARL labs to present our latest works at ICLR, one of the largest deep learning conferences in the world.&lt;/p&gt;
+&lt;p&gt;I presented my first publication, &lt;a href=&#34;https://arxiv.org/abs/2311.01642&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robust Adversarial Reinforcement Learning via Bounded Rationality Curricula&lt;/a&gt;, which was accepted as a spotlight poster.&lt;/p&gt;
+
+
+  &lt;div class=&#34;clearfix&#34;&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;1.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;Day One: Talking to sponsors!&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;2.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;
+    With my fellow LiteRL PhD student Mahdi Kallel.&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Additionally, I had the chance to meet dozens of other researchers in the fields of representation learning, game theory, large language models, and just about every other deep learning-adjacent research niche under the sun.&lt;/p&gt;
+
+
+  &lt;div class=&#34;clearfix&#34;&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;flex.jpeg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;Just before the poster presentation.&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;plank.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;
+    Plank competition!&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Since this was my first conference, I was blown away by variety of talks that were given and the sheer number of rich conversations I was able to get at the poster sessions and workshops.&lt;/p&gt;
+
+
+    &lt;div class=&#34;img-container&#34;&gt;
+    &lt;img src=&#34;vienna.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;The beautiful city of Vienna.&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Symposium on Lifelong Explainable Robot Learning (SYMPLER) 2023 🦾</title>
+      <link>http://localhost:1313/post/sympler/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/sympler/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/sympler/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/sympler/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to the growing presence of robots interacting in human spaces, the need for reliable and safe robot learning systems is greater than ever. The SYMPLER symposium tackled this need by focusing especially on both explainability and lifelong learning, as these are two keys areas in which we can robustify robot learning for human interaction.&lt;/p&gt;
+&lt;p&gt;We hosted a number of speakers with expertise in the fields of robot learning and reinforcement learning, including the ever-impressive Wolfram Burgard.&lt;/p&gt;
+&lt;!-- &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/sympler/wolfram.jpg&#34;
+    alt=&#34;Wolfram Burgard&amp;rsquo;s presentation.&#34; width=&#34;50%&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Wolfram Burgard&amp;rsquo;s presentation.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+ --&gt;
+
+
+  &lt;div class=&#34;clearfix&#34;&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;3.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;Professor Georgia Chalvatzaki&#39;s (Head of PEARL) introduction to the symposium.&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;wolfram.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;
+    Professor Wolfram Burgard&#39;s presentation on his lab&#39;s latest work.&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Additionally, we got to present our current research projects (and how they might help in some way in the quest towards explainability and lifelong learning in AI systems).&lt;/p&gt;
+
+
+  &lt;div class=&#34;clearfix&#34;&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;carlo.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;Professor Carlo D&#39;Eramo&#39;s (Head of LiteRL) introduction talk.&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;img-container-2&#34;&gt;
+    &lt;img src=&#34;4.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;
+    My presentation.&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We also had a chance to explore the beautiful Christmas markets of Nürnberg, which were an absolute treat.&lt;/p&gt;
+
+
+    &lt;div class=&#34;img-container&#34;&gt;
+    &lt;img src=&#34;2.jpg&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;Carlo with half of his PhDs.&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+
+
+    &lt;div class=&#34;img-container&#34;&gt;
+    &lt;img src=&#34;SYMPLER_Logo.png&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

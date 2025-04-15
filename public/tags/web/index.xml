@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web | Aryaman Reddi</title>
+    <link>http://localhost:1313/tags/web/</link>
+      <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fcaf3e06e07dd69.png</url>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+    </image>
+    
+    <item>
+      <title>Machine Unlearning 🤖</title>
+      <link>http://localhost:1313/project/unlearning/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/unlearning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

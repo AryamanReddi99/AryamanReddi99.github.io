@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech | Aryaman Reddi</title>
+    <link>http://localhost:1313/tags/tech/</link>
+      <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tech</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_fcaf3e06e07dd69.png</url>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+    </image>
+    
+    <item>
+      <title>How to use Text-to-Speech in WSL to inform you when a job has finished 💻</title>
+      <link>http://localhost:1313/post/medium-wsl/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/medium-wsl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
