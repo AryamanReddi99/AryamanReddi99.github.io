@@ -70,7 +70,7 @@ sections:
           - event
     design:
       view: compact
-      columns: 3
+      columns: 2
       # spacing:
       #   padding: [0, 0, 0, 0]
   - block: collection

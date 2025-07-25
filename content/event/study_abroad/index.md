@@ -1,29 +1,29 @@
 ---
-title: 'In Conversation with Lionel Shriver 📖'
+title: How I Got into the University of Cambridge 🏛️
 
 
-event: 'In Conversation with Lionel Shriver 📖'
-event_url: 
+event: How I Got into the University of Cambridge 🏛️
+event_url: https://www.youtube.com/embed/P-iiN0c2uic
 
-location: Univeristy of Cambridge
+location: Hugo Blox Builder HQ
 address:
-  street:
-  city: 
-  region: 
-  postcode: 
-  country: 
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: "During my Master's, I was secretary of Cambridge University's first free speech society. Here's a talk we had on free speech in literature we had with acclaimed author Lionel Shriver."
-abstract: "During my Master's, I was secretary of Cambridge University's first free speech society. Here's a talk we had on free speech in literature we had with acclaimed author Lionel Shriver."
+summary: My chat with Learning While Travelling about the experience of applying for and studying engineering at the University of Cambridge
+abstract: My chat with Learning While Travelling about the experience of applying for and studying engineering at the University of Cambridge
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-05-09'
+date: '2025-01-02T13:00:00'
 date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-05-09'
+publishDate: '2023-10-30T13:00:00'
 
 authors:
   - admin
@@ -45,9 +45,9 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 
-drive_url_embed: "https://drive.google.com/file/d/1AvPpDATr1Vvxp1yvIKExxtnVvslHBRyA/preview"
-external_link: https://drive.google.com/file/d/1AvPpDATr1Vvxp1yvIKExxtnVvslHBRyA/view?usp=sharing
+url_video: 'https://www.youtube.com/watch?v=5-ZomwDEJes&t=48s'
+url_embed: https://www.youtube.com/embed/5-ZomwDEJes
+external_link: 'https://www.youtube.com/watch?v=5-ZomwDEJes&t=48s'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

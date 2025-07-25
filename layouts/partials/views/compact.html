@@ -76,6 +76,14 @@
     </div>
     {{ end }}
     {{ end }}
+    {{ if $item.Params.drive_url_embed }}
+    {{ with $item.Params.drive_url_embed }}
+    <div class="md:flex-shrink-0 overflow-hidden">
+        <iframe src="{{ . }}" title="{{ $item.Title }}" frameborder="0" allow="autoplay"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="w-full aspect-video"></iframe>
+    </div>
+    {{ end }}
+    {{ end }}
     {{ with $resource }}
     {{ $image := "" }}
     {{if $fill_image}}
