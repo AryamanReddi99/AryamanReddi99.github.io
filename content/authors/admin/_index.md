@@ -50,20 +50,20 @@ interests:
   - Ethics and Philosophy
 
 education:
-  - area: PhD Computer Science
+  - area: PhD in Computer Science
     institution: Technical University of Darmstadt, Germany
     date_start: 2022-08-01
     date_end: 2026-04-01
     summary: |
-      My focus is on developing sample-efficient algorithms for exploration, coordination, and communication in multi-agent reinforcement learning using insights from game theory.
+      My focus is on developing sample-efficient algorithms for exploration, coordination, and communication in multi-agent reinforcement learning using insights from applied mathematics and game theory.
 
-      I believe bridging the gap between practical deep learning and theoretical models of stochastic optimisation is essential for scaling RL in real-world MARL settings.
+      I believe bridging the gap between practical deep learning and theoretical models of stochastic optimisation is essential for scaling RL in real-world settings.
       
       I build algorithms which exhibit high performance in high-dimensional environments while providing mathematical insights using probability theory, linear algebra, calculus, & functional analysis.
 
       
 
-  - area: MEng & BA Information and Computer Engineering
+  - area: MEng & BA in Information and Computer Engineering
     institution: University of Cambridge, United Kingdom
     date_start: 2017-10-01
     date_end: 2021-06-01
@@ -81,9 +81,9 @@ work:
     date_start: 2021-06-01
     date_end: 2022-06-01
     summary: |2-
-      - Developed an open-source tool ([ML Inference Advisor](https://pypi.org/project/mlia/)) to optimise neural networks for inference on Arm NPUs using Python (PyTorch, Numpy, Jupyter, Pandas), C++, Kubernetes & Docker.
-      - Improved processing efficiency for floating point operations in a class-A Arm NPU bridge by 14%
-      - Used machine learning clustering, kernel regression, and principal component analysis to improve verification coverage in an Arm CPU bridge by 11%
+      - Developed an open-source tool ([ML Inference Advisor](https://pypi.org/project/mlia/)) to optimise neural networks for inference on Arm GPUs using Python (PyTorch, Tensorflow, Numpy, Jupyter, Pandas), C++, Kubernetes, & Docker.
+      - Achieved a 20% boost in GPU inference throughput by analyzing TensorFlow operator efficiency using deep learning clustering and pruning techniques
+      -  Enhanced IoT device performance by 12% by benchmarking over 30 silicon-on-chip devices using Python, Jenkins CI, SQL, & Kubernetes
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -174,6 +174,6 @@ awards:
 
 I am a PhD student in reinforcement learning at the [LiteRL](https://www.informatik.uni-wuerzburg.de/rlcdm/team/) group at the Technical University of Darmstadt in partnership with the [Intelligent Autonomous Systems](https://www.ias.informatik.tu-darmstadt.de/) lab and [Hessian.AI](https://hessian.ai/), supervised by Professor [Carlo D'Eramo](https://www.informatik.uni-wuerzburg.de/rlcdm/team/carlo-deramo/) 🎓
 
-I am interested in developing sample-efficient techniques in **deep multi-agent reinforcement learning** using insights from **game theory** 🕹️
+I am interested in developing sample-efficient techniques in **deep multi-agent reinforcement learning** using insights from **applied mathematics and game theory** 🕹️
 
 I am a [continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) skeptic, a [mereological universalist](https://philarchive.org/archive/SMITVA), and a [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) supporter.

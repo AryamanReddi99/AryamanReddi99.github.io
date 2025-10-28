@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: CV
-        url: uploads/resume.pdf
+        url: uploads/CV_Aryaman_Reddi.pdf
     design:
       css_class: dark
       background:
@@ -51,7 +51,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Papers
+      title: Publications and Collaborations
       filters:
         folders:
           - publication
