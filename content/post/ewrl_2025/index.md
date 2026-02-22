@@ -15,7 +15,7 @@ tags:
   - Research
 draft: false
 image:
-  caption: 'Presenting our paper with my collaborator Max Tölle'
+  caption: ''
   focal_point: ''
   placement: 1
   preview_only: false
@@ -23,7 +23,7 @@ image:
 
 In September 2025, I went to Tübingen, Germany for the 18th European Workshop on Reinforcement Learning (EWRL). I had the chance to talk to brilliant researchers in RL and game theory from around Europe, exchange publications and preprints, and discuss the (somewhat volatile) state of machine learning research.
 
-I also presented my preprint, [K-Level Policy Gradients for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2509.12117) as a poster, which garnered some nice attention, especially from other multi-agent RL researchers and Peter Dayan(!)
+I also presented my preprint, [K-Level Policy Gradients for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2509.12117) as a poster, which garnered some nice attention, especially from other multi-agent RL researchers and Peter Dayan!
 
 
 
