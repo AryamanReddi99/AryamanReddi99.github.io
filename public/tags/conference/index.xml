@@ -5,12 +5,61 @@
     <link>http://localhost:1313/tags/conference/</link>
       <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_fcaf3e06e07dd69.png</url>
       <title>Conference</title>
       <link>http://localhost:1313/tags/conference/</link>
     </image>
+    
+    <item>
+      <title>European Workshop on Reinforcement Learning (EWRL 2025) 📜</title>
+      <link>http://localhost:1313/post/ewrl_2025/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ewrl_2025/</guid>
+      <description>&lt;p&gt;In September 2025, I went to Tübingen, Germany for the 18th European Workshop on Reinforcement Learning (EWRL). I had the chance to talk to brilliant researchers in RL and game theory from around Europe, exchange publications and preprints, and discuss the (somewhat volatile) state of machine learning research.&lt;/p&gt;
+&lt;p&gt;I also presented my preprint, &lt;a href=&#34;https://arxiv.org/abs/2509.12117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K-Level Policy Gradients for Multi-Agent Reinforcement Learning&lt;/a&gt; as a poster, which garnered some nice attention, especially from other multi-agent RL researchers and Peter Dayan(!)&lt;/p&gt;
+
+
+  &lt;div class=&#34;clearfix&#34;&gt;
+    &lt;div class=&#34;img-container-1&#34;&gt;
+    &lt;img src=&#34;poster.png&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;Presenting my poster...&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+  &lt;div class=&#34;clearfix&#34;&gt;
+    &lt;div class=&#34;img-container-1&#34;&gt;
+    &lt;img src=&#34;poster_dayan.png&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;
+    ...to Peter Dayan&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+  &lt;div class=&#34;clearfix&#34;&gt;
+    &lt;div class=&#34;img-container-3&#34;&gt;
+    &lt;img src=&#34;mahdi.png&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;Mahdi Kallel at the social event&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;img-container-3&#34;&gt;
+    &lt;img src=&#34;ahmed.png&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;
+    Ahmed Hendawy&#39;s poster on subspace multi-task learning&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;img-container-3&#34;&gt;
+    &lt;img src=&#34;nico.png&#34; style=&#34;margin-bottom: 10px&#34;&gt;
+    &lt;figcaption&gt;
+    Nico Bohlinger&#39;s poster on efficient quadruped locomotion with RL on real robots&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>International Conference on Learning Representations (ICLR) 2024 📜</title>
